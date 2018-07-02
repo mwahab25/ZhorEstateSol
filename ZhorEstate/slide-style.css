@@ -1,0 +1,21 @@
+#jFlowSlide{  background-color:Transparent; font-family: Georgia; }
+#myController { font-family: ae_AlMothnna;font-weight:bold; padding:2px 0;  width:600px; font-size:large;
+ background-color:Transparent;
+	height: 34px; float:left;
+}
+#myController span.jFlowSelected { background:#43A0D5;margin-right:0px; }
+
+.slide-wrapper { padding: 5px; }
+.slide-thumbnail { width:10px; float:left; }
+.slide-thumbnail img {max-width:300px; }
+.slide-details { width:600px; float:right; margin-left:10px;}
+.slide-details h2 { font-size:2em; font-style:normal; font-weight:bold; line-height: 1; margin:0;
+	text-align: right;
+	width: 591px;
+}
+.slide-details .description { margin-top:10px; }
+
+.jFlowControl, .jFlowPrev, .jFlowNext { padding: 2px 5px;
+	color:#439B43; 	cursor:pointer; 	font-family: Tahoma;
+}
+.jFlowControl:hover, .jFlowPrev:hover, .jFlowNext:hover { background: #43A0D5; }

@@ -1,0 +1,97 @@
+#back
+{
+      background-image:url('images/bg2.png');
+      height:100%;
+	 width:100%;
+	background-attachment:fixed;
+	color: #FFFFFF;
+}
+#left-div
+{
+	background:url('images/left-divv.gif');
+	
+	
+}
+#left-g-div
+{
+	background-image:url('images/left-g-div.png');
+}
+#left-b-div
+{
+	background-image:url('images/left-b-div.png');
+}
+#bar
+{
+	background-image:url('images/bar2.png');
+}
+#menu-element1
+{
+	background-color:#7AB9D0;
+	position:absolute;
+	top: 23px;
+	left: -32px;
+	width: 134px;
+	height: 57px;
+}
+#menu-element2
+{
+	background-color:#7AB9D0;
+	position:absolute;
+	top: 24px;
+	left: 283px;
+	width: 128px;
+	height: 57px;
+}
+#menu-element3
+{
+	background-color:#7AB9D0;
+	position:absolute;
+	top: 26px;
+	left: 439px;
+	width: 128px;
+	height: 57px;
+}
+#menu-element4
+{
+	background-color:#7AB9D0;
+	position:absolute;
+	top: 23px;
+	left: 128px;
+	width: 133px;
+	height: 57px;
+}
+#menu-element5
+{
+	background-color:#7AB9D0;
+	position:absolute;
+	top: 25px;
+	left: 595px;
+	width: 128px;
+	height: 57px;
+}
+#menu-element1:hover
+{
+	background-color:#5FB778;
+}
+#menu-element2:hover
+{
+	background-color:#5FB778;
+}
+#menu-element3:hover
+{
+	background-color:#5FB778;
+}
+#menu-element4:hover
+{
+	background-color:#5FB778;
+}
+#menu-element5:hover
+{
+	background-color:#5FB778;
+}
+#contentplacer
+{
+	background-color:#8DB87B;
+}
+
+

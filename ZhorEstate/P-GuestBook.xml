@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="GuestBook">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="datetime" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="telephone" type="xs:string" minOccurs="0" />
+                <xs:element name="akartype" type="xs:string" minOccurs="0" />
+                <xs:element name="akarlocation" type="xs:string" minOccurs="0" />
+                <xs:element name="pic" type="xs:string" minOccurs="0" />
+                <xs:element name="pic2" type="xs:string" minOccurs="0" />
+                <xs:element name="pic3" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <GuestBook>
+    <id>1</id>
+    <datetime>2007-12-12T08:21:13.71875-08:00</datetime>
+    <name>asd</name>
+    <telephone>123</telephone>
+    <akartype>asd</akartype>
+    <akarlocation>asd</akarlocation>
+    <pic>images/akar-photos/def-photo.jpg</pic>
+    <pic2>images/akar-photos/def-photo.jpg</pic2>
+    <pic3>images/akar-photos/def-photo.jpg</pic3>
+  </GuestBook>
+  <GuestBook>
+    <id>3</id>
+    <datetime>2010-12-27T05:41:02.7234261-08:00</datetime>
+    <name>jodyyyy</name>
+    <telephone>548684</telephone>
+    <akartype>,kjl</akartype>
+    <akarlocation>kjuki</akarlocation>
+    <pic>images/akar-photos/def-photo.jpg</pic>
+    <pic2>images/akar-photos/def-photo.jpg</pic2>
+    <pic3>images/akar-photos/def-photo.jpg</pic3>
+  </GuestBook>
+</NewDataSet>
