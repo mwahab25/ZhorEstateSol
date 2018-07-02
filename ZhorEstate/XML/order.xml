@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="GuestBook">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" minOccurs="0" />
+                <xs:element name="datetime" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="telephone" type="xs:string" minOccurs="0" />
+                <xs:element name="akartype" type="xs:string" minOccurs="0" />
+                <xs:element name="akarlocation" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <GuestBook>
+    <id>1</id>
+    <datetime>2007-12-12T18:21:13.71875+02:00</datetime>
+    <name>asd</name>
+    <telephone>123</telephone>
+    <akartype>asd</akartype>
+    <akarlocation>asd</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>2</id>
+    <datetime>2007-12-12T18:21:16.078125+02:00</datetime>
+    <name>asd</name>
+    <telephone>123</telephone>
+    <akartype>asd</akartype>
+    <akarlocation>asd</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>3</id>
+    <datetime>2010-10-13T02:36:10.8927201+02:00</datetime>
+    <name>hend</name>
+    <telephone>123</telephone>
+    <akartype>hello hend hello hend </akartype>
+    <akarlocation>hello hend hello hend </akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>4</id>
+    <datetime>2010-10-20T14:32:59.2581043+02:00</datetime>
+    <name>hany</name>
+    <telephone>0986333454</telephone>
+    <akartype>drerwer</akartype>
+    <akarlocation>fance</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>5</id>
+    <datetime>2010-10-20T15:30:19.3178645+02:00</datetime>
+    <name>ngaat</name>
+    <telephone>9988777</telephone>
+    <akartype>palace</akartype>
+    <akarlocation>usa</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>6</id>
+    <datetime>2010-10-20T17:04:15.0462097+02:00</datetime>
+    <name>jjj</name>
+    <telephone>2293934</telephone>
+    <akartype>dsfewfre</akartype>
+    <akarlocation>ewrewr</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>7</id>
+    <datetime>2010-10-23T00:48:37.1745565+02:00</datetime>
+    <name>ahmed ahmed</name>
+    <telephone>123</telephone>
+    <akartype>dfsf</akartype>
+    <akarlocation>dsfd</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>8</id>
+    <datetime>2010-10-25T20:38:08.4267412+02:00</datetime>
+    <name>sdsd</name>
+    <telephone>123</telephone>
+    <akartype>eded</akartype>
+    <akarlocation>ed</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>9</id>
+    <datetime>2010-10-25T21:17:53.5531627+02:00</datetime>
+    <name>aa</name>
+    <telephone>2222</telephone>
+    <akartype>xxx</akartype>
+    <akarlocation>zzz</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>10</id>
+    <datetime>2010-10-25T21:19:53.6490318+02:00</datetime>
+    <name>ppp</name>
+    <telephone>88977</telephone>
+    <akartype>klk</akartype>
+    <akarlocation>oioi</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>11</id>
+    <datetime>2010-10-26T04:18:21.0440664+02:00</datetime>
+    <name>mm</name>
+    <telephone>9898</telephone>
+    <akartype>iuoio</akartype>
+    <akarlocation>jhkjk</akarlocation>
+  </GuestBook>
+  <GuestBook>
+    <id>12</id>
+    <datetime>2010-10-26T04:51:19.5642313+02:00</datetime>
+    <name>lklk</name>
+    <telephone>09098</telephone>
+    <akartype>lklkl</akartype>
+    <akarlocation>lklk</akarlocation>
+  </GuestBook>
+</NewDataSet>

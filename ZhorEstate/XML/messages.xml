@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="GuestBook">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" minOccurs="0" />
+                <xs:element name="datetime" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="fname" type="xs:string" minOccurs="0" />
+                <xs:element name="lname" type="xs:string" minOccurs="0" />
+                <xs:element name="email" type="xs:string" minOccurs="0" />
+                <xs:element name="message" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <GuestBook>
+    <id>1</id>
+    <datetime>2007-12-12T18:21:13.71875+02:00</datetime>
+    <fname>asd</fname>
+    <lname>asd</lname>
+    <email>asd</email>
+    <message>asd</message>
+  </GuestBook>
+  <GuestBook>
+    <id>2</id>
+    <datetime>2007-12-12T18:21:16.078125+02:00</datetime>
+    <fname>asd</fname>
+    <lname>asd</lname>
+    <email>asd</email>
+    <message>asd</message>
+  </GuestBook>
+  <GuestBook>
+    <id>3</id>
+    <datetime>2010-10-13T02:36:10.8927201+02:00</datetime>
+    <fname>hend</fname>
+    <lname>josie_pussycats9@yahoo.com</lname>
+    <email>hello hend hello hend </email>
+    <message>hello hend hello hend </message>
+  </GuestBook>
+  <GuestBook>
+    <id>4</id>
+    <datetime>2010-10-20T14:32:59.2581043+02:00</datetime>
+    <fname>hany</fname>
+    <lname>0986333454</lname>
+    <email>drerwer</email>
+    <message>fance</message>
+  </GuestBook>
+  <GuestBook>
+    <id>5</id>
+    <datetime>2010-10-20T15:30:19.3178645+02:00</datetime>
+    <fname>ngaat</fname>
+    <lname>9988777</lname>
+    <email>palace</email>
+    <message>usa</message>
+  </GuestBook>
+  <GuestBook>
+    <id>6</id>
+    <datetime>2010-10-20T17:04:15.0462097+02:00</datetime>
+    <fname>jjj</fname>
+    <lname>2293934</lname>
+    <email>dsfewfre</email>
+    <message>ewrewr</message>
+  </GuestBook>
+  <GuestBook>
+    <id>7</id>
+    <datetime>2010-10-20T18:08:54.5721059+02:00</datetime>
+    <fname>moha</fname>
+    <lname>ahmed</lname>
+    <email>josie_pussycats9@yahoo.com</email>
+    <message>any any any any</message>
+  </GuestBook>
+  <GuestBook>
+    <id>8</id>
+    <datetime>2010-10-20T21:19:51.1783863+02:00</datetime>
+    <fname>hgh</fname>
+    <lname>kjk</lname>
+    <email>oioi</email>
+    <message>oioi</message>
+  </GuestBook>
+  <GuestBook>
+    <id>9</id>
+    <datetime>2010-10-20T21:31:44.7922026+02:00</datetime>
+    <fname>sdsd</fname>
+    <lname>rwr</lname>
+    <email>gfg</email>
+    <message>ytty</message>
+  </GuestBook>
+  <GuestBook>
+    <id>10</id>
+    <datetime>2010-10-25T20:38:45.5238631+02:00</datetime>
+    <fname>hanood</fname>
+    <lname>mahmoud</lname>
+    <email>a@yahoo.com</email>
+    <message>jhjhj</message>
+  </GuestBook>
+</NewDataSet>
